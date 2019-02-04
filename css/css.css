@@ -1,0 +1,28 @@
+.rest{
+    background-color: #c1797969;
+    margin-bottom: 2%;
+}
+.footer{
+    background-color: #f75d5d9c;
+}
+.navbar{
+    width: 100%;
+    margin-bottom: 2%;
+    background-color: #f75d5d9c!important;
+}
+.jumbotron{
+    background-color: #f8f9fa00!important;
+}
+.jumbotron img{
+    width: 150px;
+}
+.boton{
+    padding-top: 3%;
+}
+.bto{
+    color: black;
+    background-color: #7fa7d8;
+}
+.imagen{
+    padding: 10%;
+}
